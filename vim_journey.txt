@@ -1,0 +1,13 @@
+So far i have learn in Vi
+i for inser mode
+o to insert a line below, you do this command from any point and will create a new line
+a append in front of the text, similar to insert but different position
+A goes to the end of the line
+I goes to the beggining of the line
+h moves to the left
+j moves down
+k moves up
+l moves to the right
+
+this is my first report and I will continue with this report.
+Dec,31,22. Yogui
