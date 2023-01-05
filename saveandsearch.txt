@@ -1,0 +1,19 @@
+In order to search in Vim you need to use / follow by the word you want to saerch
+*,# to search the word you are currently on, * for the next one and # for previous
+:%s/reemplazar/newword/gic
+
+
+the command :tabnew creates a new tab to the right tabp or tabn to move between tabs (tabn and tabp are the
+short from for tabnext and tabprevious)
+
+to open a file inside Vim use the edit command :edit or :e you can put the route of the file to acces it.
+you can move to last or first tab with tabfirst or tablast, with tabmove 0 you will move the tab to the position
+selected in this case position 0
+
+Visual mode to select things enter with v, V to select the whole line and crtl +v to enter visual block mode
+visual block lets you select in a block manner.
+
+the put command :put creates a list of numbers :put=range(1,25)
+
+:Texplore to create a new tab with the option to browse
+
