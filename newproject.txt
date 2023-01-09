@@ -1,0 +1,5 @@
+Today I start my journey with web development the first thing I want to try is
+to create my web page for my CV, i will work with React and Material UI, i dont
+really know much about web development but I feel pretty motivated lets how
+much time it takes me to develop my first webpage with no prior knowledge of
+web dev.
